@@ -1,0 +1,30 @@
+# Dependencies
+markdown: redcarpet
+highlighter: true
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: GalacticBox
+tagline: 'Anything unexpected'
+description: ''
+url: http://galacticbox.net
+
+author:
+  name: 'QBitor'
+  url: http://galacticbox.net
+
+paginate: 5
+
+# Custom vars
+version: 2
+
+github:
+  repo: https://github.com/QBitor
+
+youtube:
+  channel: https://www.youtube.com/channel/UCdZtTRzKRewb3wiqe08iM9A
+
+# Gems/Plugins
+plugins: [jekyll-paginate]
